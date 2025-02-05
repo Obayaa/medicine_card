@@ -7,3 +7,6 @@ The HTML contains the structure for the UI with div representing each section.
 The CSS was used for the styling of the divs, classes and ids present in the code.
 
 A bit of JS was included to cause an onclick event when the edit schedule button is clicked on. This was an extra attachment i added to make the app responsive to clicks and not static. 
+
+To view the tweet, click on the link below:
+https://x.com/ObaaYaa_Dora/status/1887051948936884391
